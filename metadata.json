@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Notes Generator",
+  "description": "Turn lengthy study material into smart, simple, and exam-friendly notes with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
